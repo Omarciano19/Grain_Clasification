@@ -1,4 +1,9 @@
 # Grain_ML
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,vscode" /> <br>
+  </a>
+</p>
 
 The **objective** of this project is develop neural networks each time more efficient to clasify wheat and maize grain as healty, or in one of the six unacceptable categories.
 
@@ -11,8 +16,8 @@ then i'll switch to G600 which is collected with industrial cameras, focusing on
 ## Progress:
 So far there are three notebooks presenting the next progress.
 
-### A preprocess notebook
-it resizes and normalizes images of maize and wheat under the M600 or G600 grainspace folder, then it divides the images in training and test sets in a 70:30 proportion and and orders the images in the structure needed by keras.
+### Preprocess notebooks
+each notebook resizes and normalizes images of maize and wheat under the M600 or G600 grainspace folder using *openCV*, then it divides the images in training and test sets in a 70:30 proportion with *Sklearn* and and orders the images in the structure needed by keras with *os* library.
 
 ### Grain1.2
 Simple classification ML neural network to sort grain with four convolutional layers and one dense layer;
