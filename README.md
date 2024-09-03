@@ -1,11 +1,23 @@
 # Grain_ML
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,vscode" /> <br>
-  </a>
-</p>
 
 The **objective** of this project is develop neural networks each time more efficient to clasify wheat and maize grain as healty, or in one of the six unacceptable categories.
+
+*Work in progress. To run any of the neural networks download the grainspace dataset, the preprocess notebook and the neural network notebook; and organize the files in the next wat:*
+![image](https://github.com/user-attachments/assets/4a192f83-11e1-4646-90e2-04138c261e1e)
+
+
+## Tecnologies used:
+
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python" /> </a> As language, due to it ease of use and large pool of libraries.
+
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=tensorflow" /> </a>  Using it with *Keras*, to develop neural networks, prioritizing both ease of use and optimization.
+
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=sklearn" /> </a> As a tool to measure model metrics.
+
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=opencv" /> </a> As a precise and efficient way to pre-process  images for the neural network.
+
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=vscode" /> </a> As IDE.
+
 
 ## Data collection:
 First we got the data from [grainspace](https://github.com/hellodfan/GrainSpace) 
