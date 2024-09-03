@@ -4,6 +4,7 @@ The **objective** of this project is develop neural networks each time more effi
 
 *Work in progress. To run any of the neural networks download the grainspace dataset, the preprocess notebook and the neural network notebook; and organize the files in the next way:*
 ![image](https://github.com/user-attachments/assets/bcf94680-4384-4034-82e2-97decf1e57aa)
+
 *Then run the preprocess notebook, finally run the neural network notebook.*
 
 
